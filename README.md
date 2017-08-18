@@ -1,5 +1,4 @@
-# yiyayinan.github.io
-title: hello
+# 闲杂小记
 date: 2017-08-17 22:37:23
 categories:
   - 日志
